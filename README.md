@@ -11,6 +11,8 @@ Add new expense entries with category and description
 
 View all past expenses
 
+Edit,delete and Filter 
+
 Timestamp and date support
 
 Minimal, clean UI using Java Swing
